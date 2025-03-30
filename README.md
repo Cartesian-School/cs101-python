@@ -9,11 +9,15 @@
 ![Platform: FreeBSD](https://img.shields.io/badge/platform-FreeBSD-orange.svg)
 ![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)
 
+<br>
+
 > 🚀 A beginner-friendly Python course for 2025 that teaches programming fundamentals through hands-on coding, real-world examples, and essential Computer Science concepts.
 
 > Вводный курс программирования на Python для абсолютных новичков. Изучаем не только язык, но и основы компьютерных наук (CS101): переменные, условия, циклы, функции, структуры данных и алгоритмы.
 
 ---
+
+<br>
 
 ## 📚 About the Course
 
@@ -22,6 +26,8 @@
 This edition is updated for Python **3.11+, 3.12, and 3.13** and uses **Jupyter Notebooks** as the main interactive platform.
 
 ---
+
+<br>
 
 ## 🧠 What You'll Learn
 
@@ -35,6 +41,8 @@ This edition is updated for Python **3.11+, 3.12, and 3.13** and uses **Jupyter 
 
 ---
 
+<br>
+
 ## 👨‍🏫 Target Audience
 
 - 👶 Beginners with zero experience in programming
@@ -44,6 +52,8 @@ This edition is updated for Python **3.11+, 3.12, and 3.13** and uses **Jupyter 
 
 ---
 
+<br>
+
 ## 🧰 Tools & Requirements
 
 - Python 3.11 / 3.12 / 3.13  
@@ -52,6 +62,9 @@ This edition is updated for Python **3.11+, 3.12, and 3.13** and uses **Jupyter 
 - `pip install -r requirements.txt`
 
 ---
+
+<br>
+
 
 ## 📁 Repository Structure
 
@@ -68,6 +81,9 @@ cs101-python/
 
 ---
 
+<br>
+
+
 ## 🧑‍💻 Getting Started
 
 ```bash
@@ -79,12 +95,15 @@ jupyter notebook
 
 ---
 
+<br>
+
+
 ## 📬 Author
  
 **Siergej Sobolewski**  
 [![Email 🚀](https://img.shields.io/badge/Email-s.sobolewski@hotmail.com-blue?logo=protonmail)](mailto:s.sobolewski@hotmail.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-SSobol77-blue?logo=github)](https://github.com/SSobol77)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/siergej-s-25a16319a)
 
 
 ---
