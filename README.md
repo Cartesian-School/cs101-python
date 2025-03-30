@@ -4,6 +4,9 @@
 ![Python 3.12](https://img.shields.io/badge/python-3.12-blue.svg)
 ![Python 3.13](https://img.shields.io/badge/python-3.13-blue.svg)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)
+![Platform: Linux](https://img.shields.io/badge/platform-Linux-success.svg)
+![Platform: Windows](https://img.shields.io/badge/platform-Windows-blue.svg)
+![Platform: FreeBSD](https://img.shields.io/badge/platform-FreeBSD-orange.svg)
 ![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)
 
 > 🚀 A beginner-friendly Python course for 2025 that teaches programming fundamentals through hands-on coding, real-world examples, and essential Computer Science concepts.
