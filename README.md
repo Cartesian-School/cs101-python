@@ -80,10 +80,12 @@ jupyter notebook
 ---
 
 ## 📬 Author
-
+ 
 **Siergej Sobolewski**  
-📧 s.sobolewski@hotmail.com  
-🔗 [GitHub Profile](https://github.com/SSobol77)  
+[![Email 🚀](https://img.shields.io/badge/Email-s.sobolewski@hotmail.com-blue?logo=protonmail)](mailto:s.sobolewski@hotmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-SSobol77-blue?logo=github)](https://github.com/SSobol77)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/yourprofile)
+
 
 ---
 
