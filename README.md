@@ -87,7 +87,7 @@ cs101-python/
 ## 🧑‍💻 Getting Started
 
 ```bash
-git clone https://github.com/<your-username>/cs101-python.git
+git clone https://github.com/SSobol77/cs101-python.git
 cd cs101-python
 pip install -r requirements.txt
 jupyter notebook
